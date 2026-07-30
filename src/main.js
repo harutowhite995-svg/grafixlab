@@ -1,7 +1,6 @@
 import React from 'react';
 import { createRoot } from 'react-dom/client';
 import { ArrowRight, BadgeCheck, Brush, Clapperboard, Gamepad2, Layers3, Sparkles, Star, MessageCircle, Wand2, Zap } from 'lucide-react';
-import './styles.css';
 
 const h = React.createElement;
 
